@@ -184,43 +184,12 @@ export const socialLinks = [
 
 export const projects = [
     {
-        iconUrl: pricewise,
-        theme: 'btn-back-red',
-        name: 'Horizon, a Banking app',
-        description: 'Developed a banking app with a finance management dashboard that connects multiple bank accounts, displays real-time transactions, and allows to transfer money to other users on the platform using Next.js 14.',
-        link: 'https://banking-one-smoky.vercel.app',
-        github: 'https://github.com/ShuvraTheAnalyst/banking'
-    },
-    {
-        iconUrl: threads,
-        theme: 'btn-back-green',
-        name: 'Carepulse, a Healthcare application ',
-        description: 'Developed a healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.',
-        link: 'https://carepulse-healthcare-pi.vercel.app',
-        github: 'https://github.com/ShuvraTheAnalyst/carepulse_healthcare'
-    },
-    // {
-    //     iconUrl: car,
-    //     theme: 'btn-back-blue',
-    //     name: 'Car Finding App',
-    //     description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-    //     link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
-    // },
-    // {
-        //     iconUrl: estate,
-        //     theme: 'btn-back-black',
-        //     name: 'Real-Estate Application',
-        //     description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        //     link: 'https://github.com/adrianhajdin/projects_realestate',
-        // },
-        {
-            iconUrl: summiz,
-            theme: 'btn-back-yellow',
-            name: 'AI image Application',
-            description: 'An AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. ',
-            link: 'https://imaginify-neon-eight.vercel.app',
-            github: 'https://github.com/ShuvraTheAnalyst/imaginify'
-
+            iconUrl: estate,
+            theme: 'btn-back-orange',
+            name: 'Developed a Scroll-Animated 3D E-commerce Landing Page',
+            description: 'Designed and implemented an interactive landing page for a fictional soda brand, "Fizzi," featuring 3D models and scroll-triggered animations to enhance user engagement.',
+            link: 'https://fizzi-steel-five.vercel.app',
+            github: 'https://github.com/ShuvraTheAnalyst/fizzi'
         },
         {
             iconUrl: snapgram,
@@ -229,5 +198,37 @@ export const projects = [
             description: 'Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.',
             link: 'https://brainwave-rust.vercel.app',
             github: 'https://github.com/ShuvraTheAnalyst/brainwave'
+        },
+        {
+            iconUrl: threads,
+            theme: 'btn-back-green',
+            name: 'Carepulse, a Healthcare application ',
+            description: 'Developed a healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.',
+            link: 'https://carepulse-healthcare-pi.vercel.app',
+            github: 'https://github.com/ShuvraTheAnalyst/carepulse_healthcare'
+        },
+    {
+        iconUrl: pricewise,
+        theme: 'btn-back-red',
+        name: 'Horizon, a Banking app',
+        description: 'Developed a banking app with a finance management dashboard that connects multiple bank accounts, displays real-time transactions, and allows to transfer money to other users on the platform using Next.js 14.',
+        link: 'https://banking-one-smoky.vercel.app',
+        github: 'https://github.com/ShuvraTheAnalyst/banking'
+    },
+    // {
+    //     iconUrl: car,
+    //     theme: 'btn-back-blue',
+    //     name: 'Car Finding App',
+    //     description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
+    //     link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+    // },
+        {
+            iconUrl: summiz,
+            theme: 'btn-back-yellow',
+            name: 'AI image Application',
+            description: 'An AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. ',
+            link: 'https://imaginify-neon-eight.vercel.app',
+            github: 'https://github.com/ShuvraTheAnalyst/imaginify'
+
         }
 ];
